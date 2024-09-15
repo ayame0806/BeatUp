@@ -1,1 +1,3 @@
-# BeatUp
+---
+permalink: /index.html
+---
